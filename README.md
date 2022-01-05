@@ -7,13 +7,18 @@
 - 🌱 I’m currently learning shopify store development.
 - 📫 How to reach me https://sanganifenil.blogspot.com/
 <br>
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sanganifenil)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanganifenil)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sanganifenil)  
+
+<br>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanganifenil&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sanganifenil)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sanganifenil)   -->
 
   
 
