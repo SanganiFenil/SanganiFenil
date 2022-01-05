@@ -6,6 +6,8 @@
 - 👀 I’m interested in Shopify development & Web development.
 - 🌱 I’m currently learning shopify store development.
 - 📫 How to reach me https://sanganifenil.blogspot.com/
+<br>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sanganifenil)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanganifenil)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -13,9 +15,7 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sanganifenil)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sanganifenil)  
-
-![Profile views](https://gpvc.arturio.dev/Sanganifenil) 
+  
 
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!---
