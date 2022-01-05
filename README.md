@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div>
   <h1>Welcome to web world!</h1>  
 </div>
