@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Sanganifenil/SanganiFenil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <h1>Welcome to web world!</h1>  
+</div>
 
-Here are some ideas to get you started:
+- 👋 Hi, I’m Sangnai Fenil
+- 👀 I’m interested in Shopify development & Web development.
+- 🌱 I’m currently learning shopify store development.
+- 📫 How to reach me https://sanganifenil.blogspot.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- - 💞️ I’m looking to collaborate on ... -->
+<!---
+SangnaiFenil/SangnaiFenil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
