@@ -1,15 +1,14 @@
-<html>
+
 <head>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap" rel="stylesheet">
 </head>
-<body>
+
 <div>
-<h1 style="font-family: 'Oswald', sans-serif;">Welcome to web world!</h1>  
+<h1 style="color: yellow;">Welcome to web world!</h1>  
 </div>
-</body>
-</html>
+
 - 👋 Hi, I’m Sangnai Fenil
 - 👀 I’m interested in Shopify development & Web development.
 - 🌱 I’m currently learning shopify store development.
