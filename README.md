@@ -1,12 +1,5 @@
-
-<style>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap" rel="stylesheet">
-</style>
-
 <div>
-<h1 style="color: yellow;">Welcome to web world!</h1>  
+<h1>Welcome to web world!</h1>  
 </div>
 
 - 👋 Hi, I’m Sangnai Fenil
