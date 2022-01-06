@@ -1,6 +1,5 @@
-<div>
+
 <h1>Welcome to web world!</h1>  
-</div>
 
 - 👋 Hi, I’m Sangnai Fenil
 - 👀 I’m interested in Shopify development & Web development.
